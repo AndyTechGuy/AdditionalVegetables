@@ -1,0 +1,24 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalVegetables:YoungPumpkinBud:engine:halfblock": {
+        "minTime": 1000,
+        "maxTime": 5000
+      },
+      "AdditionalVegetables:YoungPumpkinBud": {
+        "minTime": 2000,
+        "maxTime": 2500
+      },
+      "AdditionalVegetables:MaturePumpkinBud": {
+        "minTime": 5000,
+        "maxTime": 6000
+      },
+      "AdditionalVegetables:FruitingPumpkinBud": {
+        "minTime": 5000,
+        "maxTime": 12000
+      }
+    },
+    "seed": "AdditionalVegetables:PumpkinSeed",
+    "produce": "AdditionalVegetables:Pumpkin"
+  }
+}

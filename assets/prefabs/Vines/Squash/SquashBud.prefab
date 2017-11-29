@@ -1,0 +1,24 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalVegetables:YoungSquashBud:engine:halfblock": {
+        "minTime": 1000,
+        "maxTime": 5000
+      },
+      "AdditionalVegetables:YoungSquashBud": {
+        "minTime": 2000,
+        "maxTime": 2500
+      },
+      "AdditionalVegetables:MatureSquashBud": {
+        "minTime": 2000,
+        "maxTime": 2500
+      },
+      "AdditionalVegetables:FruitingSquashBud": {
+        "minTime": 5000,
+        "maxTime": 12000
+      }
+    },
+    "seed": "AdditionalVegetables:SquashSeed",
+    "produce": "AdditionalVegetables:Squash"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "basedOn": "AdditionalVegetables:BaseBush",
+  "displayName": "Squash Vine Stem",
+  "tiles": {
+    "sides": "AdditionalVegetables:SquashVineStem",
+    "topBottom": "AdditionalVegetables:YoungSquashBud"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "engine:iconItem",
+  "Item": {
+    "icon": "AdditionalVegetables:Cucumber",
+    "stackId": "AdditionalVegetables:Cucumber",
+    "consumedOnUse": true
+  },
+  "DisplayName": {
+    "name": "Cucumber"
+  }
+}

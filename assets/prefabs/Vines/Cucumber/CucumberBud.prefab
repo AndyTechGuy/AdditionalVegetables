@@ -1,0 +1,24 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalVegetables:YoungCucumberBud:engine:halfblock": {
+        "minTime": 1000,
+        "maxTime": 5000
+      },
+      "AdditionalVegetables:YoungCucumberBud": {
+        "minTime": 2000,
+        "maxTime": 2500
+      },
+      "AdditionalVegetables:MatureCucumberBud": {
+        "minTime": 2000,
+        "maxTime": 2500
+      },
+      "AdditionalVegetables:FruitingCucumberBud": {
+        "minTime": 5000,
+        "maxTime": 12000
+      }
+    },
+    "seed": "AdditionalVegetables:CucumberSeed",
+    "produce": "AdditionalVegetables:Cucumber"
+  }
+}

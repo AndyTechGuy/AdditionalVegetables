@@ -1,0 +1,8 @@
+{
+  "basedOn": "AdditionalVegetables:BaseBush",
+  "displayName": "Cucumber Vine Stem",
+  "tiles": {
+    "sides": "AdditionalVegetables:CucumberVineStem",
+    "topBottom": "AdditionalVegetables:YoungCucumberBud"
+  }
+}
