@@ -1,0 +1,5 @@
+{
+  "basedOn": "AdditionalVegetables:BaseBush",
+  "displayName": "Fruiting Squash Bud",
+  "tile": "AdditionalVegetables:FruitingSquashBud"
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "engine:iconItem",
+  "DisplayName": {
+    "name": "Cucumber Seed"
+  },
+  "Item": {
+    "icon": "AdditionalVegetables:CucumberSeed",
+    "stackId": "Cucumber Seed"
+  },
+  "SeedDefinition": {},
+  "VineDefinition": {
+    "stem": "AdditionalVegetables:CucumberVineStem",
+    "bud": "AdditionalVegetables:CucumberBud",
+    "minGrowTime": 4000,
+    "maxGrowTime": 7000
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "basedOn": "AdditionalVegetables:BaseBush",
+  "displayName": "Pumpkin Vine Stem",
+  "tiles": {
+    "sides": "AdditionalVegetables:PumpkinVineStem",
+    "topBottom": "AdditionalVegetables:YoungPumpkinBud"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "basedOn": "AdditionalVegetables:BaseBush",
+  "displayName": "Young Cucumber Bud",
+  "tile": "AdditionalVegetables:YoungCucumberBud"
+}
