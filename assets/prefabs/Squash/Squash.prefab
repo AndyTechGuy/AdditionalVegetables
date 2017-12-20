@@ -7,5 +7,12 @@
   },
   "DisplayName": {
     "name": "Squash"
+  },
+  "SeedDefinition": {},
+  "VineDefinition": {
+    "stem": "AdditionalVegetables:SquashVineStem",
+    "bud": "AdditionalVegetables:SquashBud",
+    "minGrowTime": 4000,
+    "maxGrowTime": 7000
   }
 }

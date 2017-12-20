@@ -7,5 +7,12 @@
   },
   "DisplayName": {
     "name": "Cucumber"
+  },
+  "SeedDefinition": {},
+  "VineDefinition": {
+    "stem": "AdditionalVegetables:CucumberVineStem",
+    "bud": "AdditionalVegetables:CucumberBud",
+    "minGrowTime": 4000,
+    "maxGrowTime": 7000
   }
 }

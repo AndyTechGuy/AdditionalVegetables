@@ -7,5 +7,12 @@
   },
   "DisplayName": {
     "name": "Pumpkin"
+  },
+  "SeedDefinition": {},
+  "VineDefinition": {
+    "stem": "AdditionalVegetables:PumpkinVineStem",
+    "bud": "AdditionalVegetables:PumpkinBud",
+    "minGrowTime": 4000,
+    "maxGrowTime": 7000
   }
 }

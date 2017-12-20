@@ -22,6 +22,6 @@
     ]
   },
   "SeedDefinition": {
-    "prefab": "AdditionalVegetables:PotatoPlant"
+    "prefab": "AdditionalVegetables:PotatoBush"
   }
 }
