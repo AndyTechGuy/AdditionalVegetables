@@ -3,19 +3,11 @@
     "version" : "0.1.0-SNAPSHOT",
     "author" : "jellysnake",
     "displayName" : "AdditionalVegetables",
-    "description" : "Adds a number of edible vegetables that are grown using SimpleFarming",
+    "description" : "A vegetable expansion pack for CommonEdibleFlora",
     "dependencies" : [
 		{
-			"id" : "SimpleFarming",
-			"minVersion" : "2.0.0"
-        },
-		{
-			"id" : "Hunger",
-			"minVersion" : "1.0.0"
-		},
-		{
-			"id" : "Thirst",
-			"minVersion" : "1.0.0"
-		}],
+			"id" : "CommonEdibleFlora",
+			"minVersion" : "0.1.0"
+        }],
     "serverSideOnly" : false
 }
