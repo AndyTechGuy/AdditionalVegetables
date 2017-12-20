@@ -4,6 +4,34 @@
       "Seeds"
     ],
     "recipes": {
+      "AdditionalVegetables:Cucumber": {
+        "inputs": {
+          "Starfruit": 1,
+          "Banana": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalVegetables:Potato": {
+        "inputs": {
+          "Grape": 1,
+          "Cherry": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalVegetables:Pumpkin": {
+        "inputs": {
+          "Cherry": 1,
+          "Starfruit": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalVegetables:Squash": {
+        "inputs": {
+          "Blackberry": 1,
+          "Grape": 1
+        },
+        "outputCount": 1
+      }
     }
   }
 }
