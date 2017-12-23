@@ -3,10 +3,10 @@
     "version" : "0.1.0-SNAPSHOT",
     "author" : "jellysnake",
     "displayName" : "AdditionalVegetables",
-    "description" : "A vegetable expansion pack for CommonEdibleFlora",
+    "description" : "A vegetable expansion pack for EdibleFlora",
     "dependencies" : [
 		{
-			"id" : "CommonEdibleFlora",
+			"id" : "EdibleFlora",
 			"minVersion" : "0.1.0"
         }],
     "serverSideOnly" : false
